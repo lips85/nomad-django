@@ -17,3 +17,10 @@ poetry add django
 ```wsl
 django-admin startproject config .
 ```
+
+```
+django-admin makemigrations
+django-admin migrate
+
+
+```
